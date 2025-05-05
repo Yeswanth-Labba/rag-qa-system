@@ -33,3 +33,30 @@ Clone the repo and install dependencies:
 git clone https://github.com/Yeswanth-Labba/rag-qa-system.git
 cd rag-qa-system
 pip install -r requirements.txt
+
+## 📂 Repository Structure
+
+- `NLP_Project.ipynb` – Main Jupyter Notebook containing the full RAG pipeline.
+- `Presentation.pptx` – Slides presenting the project overview and results.
+- `README.md` – Documentation file.
+- `/figures/` – Contains images and charts (QA analysis, latency plots, embedding visualizations).
+- `/models/` – (Optional) Saved FAISS index and embeddings for faster reuse.
+- `requirements.txt` – (Optional) Python dependencies list for easy setup.
+
+## 👥 Team
+
+- Yeswanth Labba (ylabba@unh.newhaven.edu)
+- Nagasai Jaja (njaja@unh.newhaven.edu)
+- Sravanthi Kadari (skadari@unh.newhaven.edu)
+
+## 📄 References
+
+- Lewis, P., et al. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. NeurIPS. https://arxiv.org/abs/2005.11401
+- Reimers, N., & Gurevych, I. (2019). *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks*. EMNLP. https://arxiv.org/abs/1908.10084
+- He, P., et al. (2021). *DeBERTa: Decoding-enhanced BERT with Disentangled Attention*. ICLR. https://arxiv.org/abs/2006.03654
+- Johnson, J., Douze, M., & Jégou, H. (2019). *Billion-scale similarity search with GPUs*. FAISS. https://github.com/facebookresearch/faiss
+- Devlin, J., et al. (2019). *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*. NAACL. https://arxiv.org/abs/1810.04805
+- Liu, Y., et al. (2019). *RoBERTa: A Robustly Optimized BERT Pretraining Approach*. arXiv. https://arxiv.org/abs/1907.11692
+- Hugging Face Transformers Library. https://github.com/huggingface/transformers
+- Hugging Face Evaluate Library. https://github.com/huggingface/evaluate
+
