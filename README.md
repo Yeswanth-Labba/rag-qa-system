@@ -30,6 +30,6 @@ This project implements an open-domain question answering (ODQA) system using a 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YourUsername/rag-qa-system.git
+git clone https://github.com/Yeswanth-Labba/rag-qa-system.git
 cd rag-qa-system
 pip install -r requirements.txt
