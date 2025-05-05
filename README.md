@@ -28,17 +28,16 @@ This project implements an open-domain question answering (ODQA) system using a 
 ## 📂 Repository Structure
 
 - `NLP_Project.ipynb` – Main Jupyter Notebook containing the full RAG pipeline.
-- `Presentation.pptx` – Slides presenting the project overview and results.
+- `NLP Project Final.pptx` – Slides presenting the project overview and results.
 - `README.md` – Documentation file.
 - `/figures/` – Contains images and charts (QA analysis, latency plots, embedding visualizations).
-- `/models/` – (Optional) Saved FAISS index and embeddings for faster reuse.
 - `requirements.txt` – (Optional) Python dependencies list for easy setup.
 
 ## 👥 Team
 
-- Yeswanth Labba (ylabba@unh.newhaven.edu)
-- Nagasai Jaja (njaja@unh.newhaven.edu)
-- Sravanthi Kadari (skadari@unh.newhaven.edu)
+- Yeswanth Labba (ylabb1@unh.newhaven.edu)
+- Nagasai Jaja (njaja1@unh.newhaven.edu)
+- Sravanthi Kadari (skada9@unh.newhaven.edu)
 
 ## 📄 References
 
