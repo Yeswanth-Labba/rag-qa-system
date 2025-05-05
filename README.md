@@ -25,15 +25,6 @@ This project implements an open-domain question answering (ODQA) system using a 
   - `scikit-learn`
   - `jupyter`
 
-## 🔧 Installation
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/Yeswanth-Labba/rag-qa-system.git
-cd rag-qa-system
-pip install -r requirements.txt
-
 ## 📂 Repository Structure
 
 - `NLP_Project.ipynb` – Main Jupyter Notebook containing the full RAG pipeline.
@@ -59,4 +50,13 @@ pip install -r requirements.txt
 - Liu, Y., et al. (2019). *RoBERTa: A Robustly Optimized BERT Pretraining Approach*. arXiv. https://arxiv.org/abs/1907.11692
 - Hugging Face Transformers Library. https://github.com/huggingface/transformers
 - Hugging Face Evaluate Library. https://github.com/huggingface/evaluate
+
+## 🔧 Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/Yeswanth-Labba/rag-qa-system.git
+cd rag-qa-system
+pip install -r requirements.txt
 
